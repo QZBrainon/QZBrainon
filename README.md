@@ -22,7 +22,9 @@ Cheers!
 
 ## Contact Me
 
-You can find me at: <a href="https://www.linkedin.com/in/brainon-queiroz/" target="blank">
+You can find me at: 
+
+<a href="https://www.linkedin.com/in/brainon-queiroz/" target="blank">
   <img align="center" alt="Linkedin" width="100px" src="https://img.shields.io/badge/-Linkedin-2361B8?style=for-the-badge&logo=linkedin" />
 </a>
 
