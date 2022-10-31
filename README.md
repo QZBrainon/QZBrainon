@@ -1,8 +1,6 @@
 # Welcome to my GitHub!
 
 
-![bg](https://i.imgur.com/qB0UzOw.png)
-
 Hi! I'm Brainon Queiroz, a full-stack WebDev student at **[Trybe](https://www.betrybe.com/)**. I was born and raised in Rio de Janeiro, Brazil. I'm currently transitioning carrer from business administration to the tech industry! 
 I love gaming, technology and strategy topics! Feel free to reach out to me anytime to have a chat!
 Cheers!
