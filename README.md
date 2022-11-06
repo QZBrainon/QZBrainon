@@ -1,8 +1,8 @@
 # Welcome to my GitHub!
 
 
-Hi! I'm Brainon Queiroz, a full-stack WebDev student at **[Trybe](https://www.betrybe.com/)**. I was born and raised in Rio de Janeiro, Brazil. I'm currently transitioning my carrer from business administration to the tech industry! 
-I love gaming, technology and strategy topics! Feel free to reach out to me anytime to have a chat!
+Hi! I'm Brainon Queiroz, a full-stack WebDev student at **[Trybe](https://www.betrybe.com/)**. I was born and raised in Rio de Janeiro, Brazil. I'm currently transitioning my carrer from business administration to the tech industry.
+I love gaming, technology and strategy topics. Feel free to reach out to me anytime to have a chat.
 Cheers!
 
 
@@ -16,6 +16,7 @@ Cheers!
 ![enter image description here](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black)
 ![enter image description here](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue)
 ![enter image description here](https://img.shields.io/badge/Jest-orange?style=for-the-badge&logo=jest&logoColor=white)
+
 
 
 ## Contact Me
