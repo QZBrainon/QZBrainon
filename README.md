@@ -13,11 +13,14 @@ Cheers!
 ![enter image description here](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white)
+<br>
 ![enter image description here](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
 ![enter image description here](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black)
+<br>
 ![enter image description here](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue)
 ![enter image description here](https://img.shields.io/badge/Jest-orange?style=for-the-badge&logo=jest&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=green)
+<br>
 ![](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express&logoColor=green)
 ![](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
 ![](https://img.shields.io/badge/MySql-black?style=for-the-badge&logo=MySql&logoColor=blue)
