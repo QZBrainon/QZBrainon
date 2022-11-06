@@ -19,8 +19,10 @@ Cheers!
 <br>
 ![enter image description here](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue)
 ![enter image description here](https://img.shields.io/badge/Jest-orange?style=for-the-badge&logo=jest&logoColor=white)
-![enter image description here](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=green)
+![](https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=purple)
+
 <br>
+![enter image description here](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=green)
 ![](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express&logoColor=green)
 ![](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
 ![](https://img.shields.io/badge/MySql-black?style=for-the-badge&logo=MySql&logoColor=blue)
