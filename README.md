@@ -1,11 +1,12 @@
 # Welcome to my GitHub profile!
 
-![](https://imgur.com/a/paE7jaB)
+
 
 - 🎓 Full stack web dev student at [Trybe](https://www.betrybe.com/).
 - 🌱 Currently learning backend development with node.js and express.
 - ✍️ Looking foward to using what I learned to create value to the world!
 
+<br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qzbrainon&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzbrainon&layout=compact&langs_count=7&theme=github_dark"/>
