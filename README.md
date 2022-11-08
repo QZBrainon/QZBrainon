@@ -1,4 +1,4 @@
-# Welcome to my GitHub!
+# Welcome to my GitHub profile!
 
 ![](https://imgur.com/a/paE7jaB)
 
