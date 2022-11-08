@@ -47,8 +47,6 @@
 ![enter image description here](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black)
 <br>
 
-
-
 ## Contact Me
 
 You can find me at: 
