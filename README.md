@@ -19,6 +19,7 @@
 
 ### OS:
 ![enter image description here](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)
+----
 
 ### Frontend:
 
@@ -31,6 +32,7 @@
 ![enter image description here](https://img.shields.io/badge/Jest-orange?style=for-the-badge&logo=jest&logoColor=white)
 
 <br>
+----
 
 ### Backend:
 ![enter image description here](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=green)
@@ -41,7 +43,9 @@
 ![](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=Sequelize&logoColor=lightblue)
 
 ----
+
 <br>
+
 ### Tools:
 
 ![enter image description here](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
