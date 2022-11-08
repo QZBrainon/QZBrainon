@@ -17,10 +17,10 @@
 # Technologies
 
 
-###OS:
+### OS:
 ![enter image description here](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)
 
-###Frontend:
+### Frontend:
 
 ![enter image description here](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)
@@ -31,9 +31,8 @@
 ![enter image description here](https://img.shields.io/badge/Jest-orange?style=for-the-badge&logo=jest&logoColor=white)
 
 <br>
-----
 
-###Backend:
+### Backend:
 ![enter image description here](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=green)
 ![](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express&logoColor=green)
 ![](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
@@ -43,12 +42,10 @@
 
 ----
 <br>
-###Tools:
+### Tools:
 ![enter image description here](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
 ![enter image description here](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black)
 <br>
-
-
 
 
 
