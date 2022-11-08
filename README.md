@@ -42,9 +42,8 @@
 ![](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=green)
 ![](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=Sequelize&logoColor=lightblue)
 
-----
-
 <br>
+----
 
 ### Tools:
 
