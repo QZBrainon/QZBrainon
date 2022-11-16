@@ -4,7 +4,7 @@
 
 - 🎓 Full stack web dev student at [Trybe](https://www.betrybe.com/).
 - 🌱 Currently learning backend development with node.js and express.
-- ✍️ Looking foward to using what I learned to create value to the world!
+- ✍️ Looking for my first Junior Backend opportunities! Feel free to contact me!
 
 <br>
 <div align="center">
@@ -54,7 +54,6 @@
 
 ## Contact Me
 
-You can find me at: 
 
 <a href="https://www.linkedin.com/in/brainon-queiroz/" target="blank">
   <img align="center" alt="Linkedin" width="100px" src="https://img.shields.io/badge/-Linkedin-2361B8?style=for-the-badge&logo=linkedin" />
