@@ -4,7 +4,7 @@
 
 - 🎓 Full stack web dev student at [Trybe](https://www.betrybe.com/).
 - 🌱 Currently learning backend development with node.js and express.
-- ✍️ Looking for my first Junior Backend opportunities! Feel free to contact me!
+- ✍️ Looking for my first Junior Backend opportunity! Feel free to contact me!
 
 <br>
 <div align="center">
