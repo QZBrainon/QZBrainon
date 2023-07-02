@@ -2,8 +2,8 @@
 
 
 
-- 🎓 Full stack web dev student at [Trybe](https://www.betrybe.com/).
-- 🌱 Currently learning backend development with node.js and express.
+- 🎓 Full stack web developer 
+- 🌱 Currently learning NestJS and Firebase.
 - ✍️ Looking for my first Junior Backend opportunity! Feel free to contact me!
 
 <br>
