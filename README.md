@@ -41,7 +41,7 @@
 ![](https://img.shields.io/badge/MySql-black?style=for-the-badge&logo=MySql&logoColor=blue)
 ![](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=green)
 ![](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=Sequelize&logoColor=lightblue)
-![](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=lightblue)
+![](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
 
 <br>
 
