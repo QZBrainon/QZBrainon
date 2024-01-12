@@ -16,19 +16,12 @@
 
 # Technologies
 
-
-### OS:
-![enter image description here](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)
-
-
 ### Frontend:
 
-![enter image description here](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![enter image description here](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue)
-![](https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=purple)
+![](https://img.shields.io/badge/next-white?style=for-the-badge&logo=nextjs&logoColor=black)
 ![enter image description here](https://img.shields.io/badge/Jest-orange?style=for-the-badge&logo=jest&logoColor=white)
 
 <br>
@@ -41,6 +34,7 @@
 ![](https://img.shields.io/badge/MySql-black?style=for-the-badge&logo=MySql&logoColor=blue)
 ![](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=green)
 ![](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=Sequelize&logoColor=lightblue)
+![](https://img.shields.io/badge/Nestjs-red?style=for-the-badge&logo=Nestjs&logoColor=red)
 ![](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
 
 <br>
