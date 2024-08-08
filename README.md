@@ -1,7 +1,8 @@
 # Hi! I'm Brainon Queiroz!
 
+I'm a fullstack web developer from Brazil.
 
-I'm a fullstack web developer from Brazil. I have 2 years of experiences ranging from building fullstack apps with React and Express and I'm also a freelancer for building bots and automation tools in Python.
+I have 2 years of experiences ranging from building fullstack apps with React and Express and I'm also a freelancer for building bots and automation tools in Python.
 
 I love chatting so feel free to connect with me anytime!
 
@@ -12,8 +13,6 @@ Have a good one!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qzbrainon&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzbrainon&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-
-
 
 # Technologies
 
@@ -27,8 +26,8 @@ Have a good one!
 
 <br>
 
-
 ### Backend:
+
 ![enter image description here](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=green)
 ![](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express&logoColor=green)
 ![](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
@@ -40,7 +39,6 @@ Have a good one!
 
 <br>
 
-
 ### Tools:
 
 ![enter image description here](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
@@ -50,8 +48,6 @@ Have a good one!
 
 ## Contact Me
 
-
 <a href="https://www.linkedin.com/in/brainon-queiroz/" target="blank">
   <img alt="Linkedin" width="100px" src="https://img.shields.io/badge/-Linkedin-2361B8?style=for-the-badge&logo=linkedin" />
 </a>
-
