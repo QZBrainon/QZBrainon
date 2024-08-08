@@ -8,7 +8,7 @@ I love chatting so feel free to connect with me anytime!
 Have a good one!
 
 <br>
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qzbrainon&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzbrainon&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
@@ -52,6 +52,6 @@ Have a good one!
 
 
 <a href="https://www.linkedin.com/in/brainon-queiroz/" target="blank">
-  <img align="center" alt="Linkedin" width="100px" src="https://img.shields.io/badge/-Linkedin-2361B8?style=for-the-badge&logo=linkedin" />
+  <img alt="Linkedin" width="100px" src="https://img.shields.io/badge/-Linkedin-2361B8?style=for-the-badge&logo=linkedin" />
 </a>
 
