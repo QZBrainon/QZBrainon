@@ -1,10 +1,11 @@
 # Hi! I'm Brainon Queiroz!
 
 
+I'm a fullstack web developer from Brazil. I have 2 years of experiences ranging from building fullstack apps with React and Express and I'm also a freelancer for building bots and automation tools in Python.
 
-- 🎓 Full stack web developer 
-- 🌱 Currently learning NestJS and Firebase.
-- ✍️ Looking for my first Junior Backend opportunity! Feel free to contact me!
+I love chatting so feel free to connect with me anytime!
+
+Have a good one!
 
 <br>
 <div align="center">
