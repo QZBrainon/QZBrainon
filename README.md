@@ -2,7 +2,7 @@
 
 I'm a fullstack web developer from Brazil.
 
-I have 2 years of experiences ranging from building fullstack apps with React and Express and I'm also a freelancer for building bots and automation tools in Python.
+I have 5 years of experiences ranging from building fullstack apps with React and Express and I'm also experienced in building bots and automation tools in Python.
 
 I love chatting so feel free to connect with me anytime!
 
